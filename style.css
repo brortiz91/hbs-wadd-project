@@ -1,0 +1,110 @@
+/* Style Sheet created by Bryan Ortiz 06-12-2017 */
+html, body {
+	background: -moz-linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
+	background: -o-linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
+	background: -webkit,-linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
+	background: linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
+	background-attachment: fixed;
+}
+
+h1, h2 {
+	font-family: 'Audiowide', cursive;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	color: white;
+}
+
+.pull-left, .pull-right {
+	list-style: none;
+}
+
+.pull-left li, .pull-right li {
+	display: block;
+	margin-right: 1em;
+	font-family: 'Electrolize', sans-serif;
+}
+
+.nav a {
+	color: white;
+	font-size: 1em;
+	font-weight: bold;
+	padding: 1em 1em;
+}
+
+.jumbotron{
+	background-image: url('images/calmcoding2.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.col-md-6 p {
+	font-family: 'Sue Ellen Francisco', cursive;
+	font-size: 1.3em;
+	color: white;
+}
+
+
+.col-md-12 h3 {
+	font-family: 'Architects Daughter', cursive;
+	font-size: 1.4em;
+	color: white;
+	font-weight: bold;
+}
+
+.col-md-12 p {
+	font-family: 'Sue Ellen Francisco', cursive;
+	font-size: 1.3em;
+	color: white;
+}
+
+.footer {
+	color: white;
+	text-align: center;
+	font-family: 'Electrolize', sans-serif;
+	display: block-inline;
+}
+
+.footer p {
+	margin-top: 1em;
+}
+
+#linkedin {
+	color: white;
+	display: block;
+}
+
+#github {
+	color: white;
+	display: block;
+}
+
+#email {
+	color: white;
+	display: block;
+	font-family: 'Electrolize', sans-serif;
+}
+
+
+.footer .git a {
+	text-align: center;
+	color: white;
+	display: inline;
+	margin-right: .5em;
+}
+
+.col-md-4 img {
+	max-width: 100%;
+	margin-bottom: 0.4em;
+}
+
+@media only screen and (min-width: 770px) {
+	.pull-left li, .pull-right li {
+		display: inline;
+	}
+}
