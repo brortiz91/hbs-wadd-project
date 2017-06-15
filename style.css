@@ -33,7 +33,6 @@ h2 {
 	color: white;
 	font-size: 1em;
 	font-weight: bold;
-	padding: 1em 1em;
 }
 
 .jumbotron{
@@ -101,6 +100,35 @@ h2 {
 .col-md-4 img {
 	max-width: 100%;
 	margin-bottom: 0.4em;
+}
+
+.col-md-12 img {
+	max-width: 100%;
+	margin-bottom: 0.4em;
+}
+
+#back:hover {
+	color: white;
+	font-style: italic;
+}
+
+#cap {
+	text-align: center;
+}
+
+#back {
+	text-align: center;
+}
+
+.btn {
+	background-color: midnightblue;
+	color: white;
+	font-family: 'Electrolize', sans-serif;
+}
+
+.btn:hover {
+	color: white;
+	font-style: italic;
 }
 
 @media only screen and (min-width: 770px) {
