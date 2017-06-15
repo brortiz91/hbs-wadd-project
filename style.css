@@ -124,6 +124,8 @@ h2 {
 .btn:hover {
 	color: white;
 	font-style: italic;
+	background: url(images/spacetravel.gif);
+	background-size: cover;
 }
 
 @media only screen and (min-width: 770px) {
