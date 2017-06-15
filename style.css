@@ -1,9 +1,9 @@
 /* Style Sheet created by Bryan Ortiz 06-12-2017 */
 html, body {
-	background: -moz-linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
-	background: -o-linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
-	background: -webkit,-linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
-	background: linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
+	background: -moz-linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #121254, black, #121254, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
+	background: -o-linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #121254, black, #121254, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
+	background: -webkit,-linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #121254, black, #121254, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
+	background: linear-gradient(deepskyblue, #00ace6, #2e2ed1, #202092, midnightblue, #121254, black, #121254, midnightblue, #202092, #2e2ed1, #00ace6, deepskyblue);
 	background-attachment: fixed;
 }
 
